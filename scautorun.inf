@@ -1,0 +1,15 @@
+[Script]
+enable = true
+main = main
+Lang = python
+
+[Unit]
+type = Script
+name = scautorun
+description = 
+createdBy = 
+version = 
+
+[script]
+enable = true
+
